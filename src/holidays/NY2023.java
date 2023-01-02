@@ -13,5 +13,9 @@ public class NY2023 {
     drink more water
     stay positive
 
+    yoga
+    kind
+    active
+
      */
 }
