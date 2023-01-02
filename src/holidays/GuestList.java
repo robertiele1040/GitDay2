@@ -12,5 +12,10 @@ public class GuestList {
 added more family members
 Tom is coming
 Stacy is coming with her family
+
+John is coming
+Katy
+Stacy
+....
      */
 }
