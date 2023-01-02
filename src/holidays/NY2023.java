@@ -12,6 +12,12 @@ public class NY2023 {
     exercise
     drink more water
     stay positive
+    
+    ==============
+    eat healthy
+    travel more
+    finish studies
+    find good job
 
      */
 }
