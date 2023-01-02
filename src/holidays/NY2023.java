@@ -8,5 +8,10 @@ public class NY2023 {
     New Chapter in life
     ...
 
+    New Year Resolutions:
+    exercise
+    drink more water
+    stay positive
+
      */
 }
