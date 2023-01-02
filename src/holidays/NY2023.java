@@ -19,5 +19,9 @@ public class NY2023 {
     finish studies
     find good job
 
+    yoga
+    kind
+    active
+
      */
 }
